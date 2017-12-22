@@ -1,3 +1,7 @@
 #+title: Agenda des EIG 2018
 
 Vous pouvez accéder à cet agenda public [[https://box.bzg.io/cloud/index.php/apps/calendar/p/BS33A1YSC0X2MWML][en ligne]].
+
+* Le père Noël arrive !
+  SCHEDULED: <2017-12-24 dim. 9:00>
+  
