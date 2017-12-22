@@ -1,10 +1,10 @@
 #+title: Agenda des EIG 2018
 
-Vous pouvez accéder à cet agenda public [[https://box.bzg.io/cloud/index.php/apps/calendar/p/BS33A1YSC0X2MWML][en ligne]].
+Vous pouvez accéder à cet agenda public [[https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV][en ligne]].
 
-* Le père Noël arrive !
-  SCHEDULED: <2017-12-24 dim. 9:00>
+* Semaine de Bootcamp
   :PROPERTIES:
-  :ID:       da364813-6562-4d5b-b324-9c50e49d467d
+  :ID:       f67f5922-19b7-46b4-81be-300ca1a48bb0
   :END:
+  <2018-02-05 lun.>--<2018-02-09 ven.>
   
