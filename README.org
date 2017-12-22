@@ -4,4 +4,7 @@ Vous pouvez accéder à cet agenda public [[https://box.bzg.io/cloud/index.php/a
 
 * Le père Noël arrive !
   SCHEDULED: <2017-12-24 dim. 9:00>
+  :PROPERTIES:
+  :ID:       da364813-6562-4d5b-b324-9c50e49d467d
+  :END:
   
