@@ -1,6 +1,6 @@
 #+title: Agenda des EIG 2018
 
-Vous pouvez accéder à cet agenda public [[https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV][en ligne]].
+Vous pouvez vous abonner à cet agenda public [[https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV][en ligne]].
 
 * Semaine de Bootcamp
   :PROPERTIES:
