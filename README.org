@@ -7,4 +7,10 @@ Vous pouvez vous abonner à cet agenda public [[https://box.bzg.io/cloud/index.p
   :ID:       f67f5922-19b7-46b4-81be-300ca1a48bb0
   :END:
   <2018-02-05 lun.>--<2018-02-09 ven.>
+
+* Réunion Signaux faibles
+  :PROPERTIES:
+  :ID:       da916bff-7a10-4555-b106-bbb4eb72ab9d
+  :END:
+  <2018-02-02 ven.>
   
