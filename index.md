@@ -53,7 +53,7 @@ Après-midi : CNIL
 ### Temps libre / Unsession
 
 
-### Drink avec l’incubateur FIXME
+### Drink avec l’incubateur de services numériques
 
 
 ## Bootcamp - Jeudi 8 février

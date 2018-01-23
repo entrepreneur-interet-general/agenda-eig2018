@@ -84,7 +84,7 @@ Après-midi : CNIL
     :PROPERTIES:
     :ID:       ddffa24b-1287-4b03-86af-c4ace7d39ded
     :END:
-*** Drink avec l’incubateur FIXME
+*** Drink avec l’incubateur de services numériques
     SCHEDULED: <2018-02-07 mer. 17:30-18:20>
     :PROPERTIES:
     :ID:       be8aeaf3-e922-4ddc-a398-73c7772c9314
