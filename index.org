@@ -6,7 +6,7 @@ Vous pouvez vous abonner à cet agenda public [[https://box.bzg.io/cloud/index.p
   :END:
   <2018-02-05 lun.>--<2018-02-09 ven.>
 
-** Bootcamp - Lundi
+** Bootcamp - Lundi 5 février
    :PROPERTIES:
    :ID:       91886710-5c95-4a49-8155-f7c8ed7e8c9b
    :END:
@@ -43,7 +43,7 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
     :ID:       4d83d291-7b90-416b-9864-ccc288736a4d
     :END:
 
-** Bootcamp - Mardi
+** Bootcamp - Mardi 6 février
    :PROPERTIES:
    :ID:       cc90bd05-a707-436d-a854-c6d76fc33334
    :END:
@@ -60,7 +60,7 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
     :PROPERTIES:
     :ID:       191390f8-1cb2-41af-98a6-e907530d972c
     :END:
-** Bootcamp - Mercredi
+** Bootcamp - Mercredi 7 février
    :PROPERTIES:
    :ID:       9cc3db1d-3f13-4765-b6c8-967211dbb0e7
    :END:
@@ -89,7 +89,7 @@ Après-midi : CNIL
     :PROPERTIES:
     :ID:       be8aeaf3-e922-4ddc-a398-73c7772c9314
     :END:
-** Bootcamp - Jeudi
+** Bootcamp - Jeudi 8 février
    :PROPERTIES:
    :ID:       9c5f299c-1a2f-4c02-92c8-6d5de9bcf05f
    :END:
@@ -113,7 +113,7 @@ Après-midi : BercyLab, 139 rue de Bercy
     :PROPERTIES:
     :ID:       c9e5e328-c3d4-4c45-b9c0-5b48a852bba4
     :END:
-** Bootcamp - Vendredi
+** Bootcamp - Vendredi 9 février
    :PROPERTIES:
    :ID:       950cb905-081e-42e5-84da-97d18f5e47ba
    :END:

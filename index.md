@@ -6,7 +6,7 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://box.bzg.io/clou
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun.&gt;&#x2013;&lt;2018-02-09 ven.&gt;</span></span>
 
 
-## Bootcamp - Lundi
+## Bootcamp - Lundi 5 février
 
 Toute la journée : 20 avenue de Ségur / SALLE 4.724
 
@@ -26,7 +26,7 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
 ### Drink EIG
 
 
-## Bootcamp - Mardi
+## Bootcamp - Mardi 6 février
 
 Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
@@ -37,7 +37,7 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 ### Outils partagés EIG Link, échanges micro-formations
 
 
-## Bootcamp - Mercredi
+## Bootcamp - Mercredi 7 février
 
 Matin : 20 avenue de Ségur, salle 4.724
 
@@ -56,7 +56,7 @@ Après-midi : CNIL
 ### Drink avec l’incubateur FIXME
 
 
-## Bootcamp - Jeudi
+## Bootcamp - Jeudi 8 février
 
 Matin : 6 boulevard Poissonnière
 
@@ -72,7 +72,7 @@ Après-midi : BercyLab, 139 rue de Bercy
 ### Ateliers en pools de défis similaires au BercyLab avec EIG LINK + mentors #maker
 
 
-## Bootcamp - Vendredi
+## Bootcamp - Vendredi 9 février
 
 Matin : 35 rue Saint Dominique puis 32 rue de Babylone, Salle de la
 Chapelle
