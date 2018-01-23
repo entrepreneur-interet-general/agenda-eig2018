@@ -41,7 +41,7 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 Matin : 20 avenue de Ségur, salle 4.724
 
-Après-midi : CNIL
+Après-midi : CNIL, 3 place de Fontenoy
 
 
 ### Etalab : data gouv, cadre legal, AGD, API entreprise, open gov, open fisca #learn
