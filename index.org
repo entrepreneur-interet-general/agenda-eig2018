@@ -31,11 +31,15 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
     :ID:       f2df356c-d4eb-4bde-a9f3-34cc007a8d45
     :END:
 
-*** Rencontre avec les EIG1 et premiers étonnements
+*** Rencontre avec les EIG1 et le LLL, premiers étonnements
     SCHEDULED: <2018-02-05 lun. 14:30-17:20>
     :PROPERTIES:
     :ID:       b1af68c5-709f-4720-a2b8-e26922c8c441
     :END:
+
+Le but est de mieux se connaître, de permettre aux EIG1 de partager
+leur expérience avec les EIG2, aux EIG2 de découvrir le LLL et les
+personnes qui seront présentes pour accompagner le programme en 2018.
 
 *** Drink EIG
     SCHEDULED: <2018-02-05 lun. 17:30-18:20>
@@ -50,16 +54,20 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
 
 Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
-*** Échange d’expériences EIG2 #community
+*** Présentation du LLL et échange d’expériences EIG2 #community
     SCHEDULED: <2018-02-06 mar. 09:30-12:30>
     :PROPERTIES:
     :ID:       b49fbd96-3d57-466a-a7a5-0c57588b5dc5
     :END:
-*** Outils partagés EIG Link, échanges micro-formations
+
+*** Outils partagés EIG Link et LLL, cartographie de compétences
     SCHEDULED: <2018-02-06 mar. 14:30-17:20>
     :PROPERTIES:
     :ID:       191390f8-1cb2-41af-98a6-e907530d972c
     :END:
+
+Avec le référent technique du côté du LLL.
+
 ** Bootcamp - Mercredi 7 février
    :PROPERTIES:
    :ID:       9cc3db1d-3f13-4765-b6c8-967211dbb0e7
@@ -94,11 +102,11 @@ Après-midi : CNIL, 3 place de Fontenoy
    :ID:       9c5f299c-1a2f-4c02-92c8-6d5de9bcf05f
    :END:
 
-Matin : 6 boulevard Poissonnière
+Matin : Liberté Living Lab, 9 rue d'Alexandrie.
 
 Après-midi : BercyLab, 139 rue de Bercy
 
-*** Training Dataiku (6 boulevard Poissonière) ou Unsession ou LLL #community
+*** Travail sur les défis en mode hackathon / quick wins #community
     SCHEDULED: <2018-02-08 jeu. 09:30-11:20>
     :PROPERTIES:
     :ID:       2355d7a0-5eeb-4577-8c55-c5253b456bb5
@@ -108,11 +116,12 @@ Après-midi : BercyLab, 139 rue de Bercy
     :PROPERTIES:
     :ID:       a0b367e7-1306-4825-90ce-31d039974e9f
     :END:
-*** Ateliers en pools de défis similaires au BercyLab avec EIG LINK + mentors #maker
+*** LLL lead la co-construction du programme de mentorat #maker
     SCHEDULED: <2018-02-08 jeu. 14:30-17:20>
     :PROPERTIES:
     :ID:       c9e5e328-c3d4-4c45-b9c0-5b48a852bba4
     :END:
+
 ** Bootcamp - Vendredi 9 février
    :PROPERTIES:
    :ID:       950cb905-081e-42e5-84da-97d18f5e47ba
@@ -128,7 +137,7 @@ Après-midi : 13 rue Cambon
     :PROPERTIES:
     :ID:       338771ca-e789-4fd2-9957-93836beb9cb9
     :END:
-*** Bilan et co-construction programme #community (32 rue de Babylone)
+*** Bilan avec les mentors et co-construction du programme #community (32 rue de Babylone)
     SCHEDULED: <2018-02-09 ven. 10:30-12:20>
     :PROPERTIES:
     :ID:       21c0a03c-6784-41af-b296-92dfc3bb1a40

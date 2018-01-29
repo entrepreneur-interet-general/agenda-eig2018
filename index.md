@@ -20,7 +20,11 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
 ### Se situer dans son administration d’accueil et visite de la DINSIC #learn
 
 
-### Rencontre avec les EIG1 et premiers étonnements
+### Rencontre avec les EIG1 et le LLL, premiers étonnements
+
+Le but est de mieux se connaître, de permettre aux EIG1 de partager
+leur expérience avec les EIG2, aux EIG2 de découvrir le LLL et les
+personnes qui seront présentes pour accompagner le programme en 2018.
 
 
 ### Drink EIG
@@ -31,10 +35,12 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
 Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 
-### Échange d’expériences EIG2 #community
+### Présentation du LLL et échange d’expériences EIG2 #community
 
 
-### Outils partagés EIG Link, échanges micro-formations
+### Outils partagés EIG Link et LLL, cartographie de compétences
+
+Avec le référent technique du côté du LLL.
 
 
 ## Bootcamp - Mercredi 7 février
@@ -58,18 +64,18 @@ Après-midi : CNIL, 3 place de Fontenoy
 
 ## Bootcamp - Jeudi 8 février
 
-Matin : 6 boulevard Poissonnière
+Matin : Liberté Living Lab, 9 rue d'Alexandrie.
 
 Après-midi : BercyLab, 139 rue de Bercy
 
 
-### Training Dataiku (6 boulevard Poissonière) ou Unsession ou LLL #community
+### Travail sur les défis en mode hackathon / quick wins #community
 
 
 ### Temps libre / Unsession
 
 
-### Ateliers en pools de défis similaires au BercyLab avec EIG LINK + mentors #maker
+### LLL lead la co-construction du programme de mentorat #maker
 
 
 ## Bootcamp - Vendredi 9 février
@@ -83,7 +89,7 @@ Après-midi : 13 rue Cambon
 ### Petit déjeuner avec Mounir Mahjoubi, Secrétaire d'Etat au Numérique (35 rue Saint Dominique)
 
 
-### Bilan et co-construction programme #community (32 rue de Babylone)
+### Bilan avec les mentors et co-construction du programme #community (32 rue de Babylone)
 
 
 ### Learning expedition à la Cour des comptes
