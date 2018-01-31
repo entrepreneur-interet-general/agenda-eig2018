@@ -117,13 +117,14 @@ Au BercyLab, 139 rue de Bercy.
 ### Point d’étape sur la semaine de bootcamp
 
 
-## Bootcamp - Vendredi 9 février (SENUM, CGI, Cour des comptes)
+## Bootcamp - Vendredi 9 février (SENUM, SGPI, Cour des comptes)
 
 Matin : Secrétariat d’État au Numérique, 35 rue Saint Dominique.
 
-Matin : 32 rue de Babylone, à l’Hôtel du [CGI](http://www.gouvernement.fr/le-commissariat-general-a-l-investissement)
+Matin : 32 rue de Babylone, à l’Hôtel du [Secrétariat général pour
+l'investissement](http://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi).
 
-Après-midi : 13 rue Cambon.
+Après-midi : 13 rue Cambon, Cour des Comptes.
 
 
 ### Petit déjeuner avec Mounir Mahjoubi au SENUM
