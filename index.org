@@ -86,11 +86,17 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 *** Petit-déjeuner avec Paul Duan
     SCHEDULED: <2018-02-06 mar. 08:30-9:30>
+    :PROPERTIES:
+    :ID:       960e2182-540b-4200-a1f4-ad633528c369
+    :END:
 
 # Animation Mathilde
 
 *** Présentation des ressources du LLL
     SCHEDULED: <2018-02-06 mar. 09:30-10:00>
+    :PROPERTIES:
+    :ID:       199d96f2-9569-40c0-86e5-a1afe2a301ed
+    :END:
 
 # Animation Mathilde
 
@@ -104,6 +110,9 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 *** Déjeuner avec David Tortel (intervenant ANSSI)
     SCHEDULED: <2018-02-06 mar. 12:15-13:45>
+    :PROPERTIES:
+    :ID:       ffe73799-a2df-4592-ae0b-762986cac4e6
+    :END:
 
 *** Outils partagés EIG Link et LLL, cartographie de compétences
     SCHEDULED: <2018-02-06 mar. 14:30-17:20>
