@@ -1,4 +1,4 @@
-Vous pouvez vous abonner à cet agenda public [en ligne](https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV).
+Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 
 # Semaine de Bootcamp
@@ -11,10 +11,14 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://box.bzg.io/clou
 Toute la journée : 20 avenue de Ségur / SALLE 4.724
 
 
-### Petit déjeuner à la DINSIC #community
+### S: Petit déjeuner à la DINSIC #community
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun. 08:30&gt;&#x2013;&lt;2018-02-05 lun. 09:20&gt;</span></span>
 
 
-### Icebreaker/présentations/programme #fun
+### S: Icebreaker/présentations/programme #fun
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun. 09:30&gt;&#x2013;&lt;2018-02-05 lun. 10:00&gt;</span></span>
 
 
 ### Présentation du programme du bootcamp #fun
@@ -27,10 +31,14 @@ Livrables :
 -   Pastille vidéo de communication autour du programme EIG
 
 
-### Se situer dans son administration d’accueil #learn
+### S: Se situer dans son administration d’accueil #learn
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun. 10:30&gt;&#x2013;&lt;2018-02-05 lun. 12:30&gt;</span></span>
 
 
-### Rencontre avec les EIG1
+### S: Rencontre avec les EIG1
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun. 14:30&gt;&#x2013;&lt;2018-02-05 lun. 16:00&gt;</span></span>
 
 Le but est de mieux se connaître, de permettre aux EIG1 de partager
 leur expérience avec les EIG2, aux EIG2 de découvrir le LLL et les
@@ -55,19 +63,29 @@ Pour les EIG1 :
 Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 
-### Petit-déjeuner avec Paul Duan
+### S: Petit-déjeuner avec Paul Duan
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-06 mar. 08:30&gt;&#x2013;&lt;2018-02-06 mar. 09:30&gt;</span></span>
 
 
-### Présentation des ressources du LLL
+### S: Présentation des ressources du LLL
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-06 mar. 09:30&gt;&#x2013;&lt;2018-02-06 mar. 10:00&gt;</span></span>
 
 
-### Rencontres entre EIG2 et défis #community
+### S: Rencontres entre EIG2 et défis #community
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-06 mar. 10:15&gt;&#x2013;&lt;2018-02-06 mar. 12:15&gt;</span></span>
 
 
-### Déjeuner avec David Tortel (intervenant ANSSI)
+### S: Déjeuner avec David Tortel (intervenant ANSSI)
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-06 mar. 12:15&gt;&#x2013;&lt;2018-02-06 mar. 13:45&gt;</span></span>
 
 
-### Outils partagés EIG Link et LLL, cartographie de compétences
+### S: Outils partagés EIG Link et LLL, cartographie de compétences
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-06 mar. 14:30&gt;&#x2013;&lt;2018-02-06 mar. 17:20&gt;</span></span>
 
 Avec Quentin, référent technique au LLL.
 
@@ -85,13 +103,17 @@ Matin : 20 avenue de Ségur, salle 4.724
 Après-midi : CNIL, 3 place de Fontenoy
 
 
-### Visite à Étalab #learn
+### S: Visite à Étalab #learn
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-07 mer. 09:30&gt;&#x2013;&lt;2018-02-07 mer. 12:30&gt;</span></span>
 
 Découverte de data gouv, cadre legal, AGD, API entreprise, open gov,
 open fisca.  Voir [le dépôt eig-link](https://github.com/entrepreneur-interet-general/eig-link/blob/master/bootcamp.org) pour des ressources.
 
 
-### Learning expedition à la CNIL #community
+### S: Learning expedition à la CNIL #community
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-07 mer. 14:30&gt;&#x2013;&lt;2018-02-07 mer. 16:20&gt;</span></span>
 
 
 ### Temps libre / Unsession
@@ -107,13 +129,17 @@ Matin : Liberté Living Lab, 9 rue d'Alexandrie.
 Après-midi : BercyLab, 139 rue de Bercy.
 
 
-### Travail sur les défis en mode hackathon #community
+### S: Travail sur les défis en mode hackathon #community
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-08 jeu. 09:30&gt;&#x2013;&lt;2018-02-08 jeu. 12:30&gt;</span></span>
 
 
 ### Temps libre / Unsession
 
 
-### Co-construction du programme de mentorat #maker
+### S: Co-construction du programme de mentorat #maker
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-08 jeu. 14:30&gt;&#x2013;&lt;2018-02-08 jeu. 17:00&gt;</span></span>
 
 Au BercyLab, 139 rue de Bercy.
 
@@ -131,12 +157,16 @@ l'investissement](http://www.gouvernement.fr/secretariat-general-pour-l-investis
 Après-midi : 13 rue Cambon, Cour des Comptes.
 
 
-### Petit déjeuner avec Mounir Mahjoubi au SENUM
+### S: Petit déjeuner avec Mounir Mahjoubi au SENUM
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-09 ven. 09:00&gt;&#x2013;&lt;2018-02-09 ven. 10:00&gt;</span></span>
 
 Au SENUM, 35 rue Saint Dominique.
 
 
-### Restitution du bootcamp avec les mentors #community
+### S: Restitution du bootcamp avec les mentors #community
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-09 ven. 10:30&gt;&#x2013;&lt;2018-02-09 ven. 12:20&gt;</span></span>
 
 À l’Hôtel du [CGI](http://www.gouvernement.fr/le-commissariat-general-a-l-investissement), 32 rue de Babylone.
 
@@ -151,7 +181,9 @@ Au SENUM, 35 rue Saint Dominique.
     leurs sessions dédiées
 
 
-### Visite à la Cour des comptes
+### S: Visite à la Cour des comptes
+
+<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-09 ven. 14:30&gt;&#x2013;&lt;2018-02-09 ven. 16:20&gt;</span></span>
 
 À la cour des comptes, 13 rue de Cambon.
 
