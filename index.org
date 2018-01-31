@@ -6,7 +6,7 @@ Vous pouvez vous abonner à cet agenda public [[https://box.bzg.io/cloud/index.p
   :END:
   <2018-02-05 lun.>--<2018-02-09 ven.>
 
-** Bootcamp - Lundi 5 février
+** Bootcamp - Lundi 5 février (à la DINSIC)
    :PROPERTIES:
    :ID:       91886710-5c95-4a49-8155-f7c8ed7e8c9b
    :END:
@@ -20,19 +20,32 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
     :END:
 
 *** Icebreaker/présentations/programme #fun
+    SCHEDULED: <2018-02-05 lun. 09:30-10:00>
+    :PROPERTIES:
+    :ID:       78ea7b5e-3a02-4f2a-9819-42adce3a7c61
+    :END:
+
+*** Présentation du programme du bootcamp #fun
     SCHEDULED: <2018-02-05 lun. 09:30-10:20>
     :PROPERTIES:
     :ID:       78ea7b5e-3a02-4f2a-9819-42adce3a7c61
     :END:
 
-*** Se situer dans son administration d’accueil et visite de la DINSIC #learn
+Livrables :
+
+- Co-construction du programme de sessions collectives 
+- Réalisation d’un "quick win" par défi
+- Repérage des compétences mobilisables par le collectif
+- Pastille vidéo de communication autour du programme EIG
+
+*** Se situer dans son administration d’accueil #learn
     SCHEDULED: <2018-02-05 lun. 10:30-12:30>
     :PROPERTIES:
     :ID:       f2df356c-d4eb-4bde-a9f3-34cc007a8d45
     :END:
 
-*** Rencontre avec les EIG1 et le LLL, premiers étonnements
-    SCHEDULED: <2018-02-05 lun. 14:30-17:20>
+*** Rencontre avec les EIG1 
+    SCHEDULED: <2018-02-05 lun. 14:30-16:00>
     :PROPERTIES:
     :ID:       b1af68c5-709f-4720-a2b8-e26922c8c441
     :END:
@@ -41,24 +54,56 @@ Le but est de mieux se connaître, de permettre aux EIG1 de partager
 leur expérience avec les EIG2, aux EIG2 de découvrir le LLL et les
 personnes qui seront présentes pour accompagner le programme en 2018.
 
+Pour les EIG1 :
+
+- Ce qui a été le plus marquant
+- Les temps forts de leur défi
+- Un conseil à donner aux EIG2
+- Quelle suite EIG pour eux ?
+
+# Soizic anime et Bastien prend des notes
+
+*** Étonnements et attentes par rapport l’accompagnement
+    SCHEDULED: <2018-02-05 lun. 16:15-17:30>
+    :PROPERTIES:
+    :ID:       b1af68c5-709f-4720-a2b8-e26922c8c441
+    :END:
+
+# Soizic anime et Bastien prend des notes
+
 *** Drink EIG
     SCHEDULED: <2018-02-05 lun. 17:30-18:20>
     :PROPERTIES:
     :ID:       4d83d291-7b90-416b-9864-ccc288736a4d
     :END:
 
-** Bootcamp - Mardi 6 février
+** Bootcamp - Mardi 6 février (au LLL)
    :PROPERTIES:
    :ID:       cc90bd05-a707-436d-a854-c6d76fc33334
    :END:
 
 Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
-*** Présentation du LLL et échange d’expériences EIG2 #community
-    SCHEDULED: <2018-02-06 mar. 09:30-12:30>
+*** Petit-déjeuner avec Paul Duan
+    SCHEDULED: <2018-02-06 mar. 08:30-9:30>
+
+# Animation Mathilde
+
+*** Présentation des ressources du LLL
+    SCHEDULED: <2018-02-06 mar. 09:30-10:00>
+
+# Animation Mathilde
+
+*** Rencontres entre EIG2 et défis #community
+    SCHEDULED: <2018-02-06 mar. 10:15-12:15>
     :PROPERTIES:
     :ID:       b49fbd96-3d57-466a-a7a5-0c57588b5dc5
     :END:
+
+# Prise de note en cartes mentales
+
+*** Déjeuner avec David Tortel (intervenant ANSSI)
+    SCHEDULED: <2018-02-06 mar. 12:15-13:45>
 
 *** Outils partagés EIG Link et LLL, cartographie de compétences
     SCHEDULED: <2018-02-06 mar. 14:30-17:20>
@@ -66,9 +111,11 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
     :ID:       191390f8-1cb2-41af-98a6-e907530d972c
     :END:
 
-Avec le référent technique du côté du LLL.
+Avec Quentin, référent technique au LLL.
 
-** Bootcamp - Mercredi 7 février
+Les mentors sont les bienvenus !
+
+** Bootcamp - Mercredi 7 février (à la DINSIC puis à la CNIL)
    :PROPERTIES:
    :ID:       9cc3db1d-3f13-4765-b6c8-967211dbb0e7
    :END:
@@ -77,11 +124,15 @@ Matin : 20 avenue de Ségur, salle 4.724
 
 Après-midi : CNIL, 3 place de Fontenoy
 
-*** Etalab : data gouv, cadre legal, AGD, API entreprise, open gov, open fisca #learn
+*** Visite à Étalab #learn
     SCHEDULED: <2018-02-07 mer. 09:30-12:30>
     :PROPERTIES:
     :ID:       8f32a377-c71f-47ee-8933-6da81209dfdd
     :END:
+
+Découverte de data gouv, cadre legal, AGD, API entreprise, open gov,
+open fisca.  Voir [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/bootcamp.org][le dépôt eig-link]] pour des ressources.
+
 *** Learning expedition à la CNIL #community
     SCHEDULED: <2018-02-07 mer. 14:30-16:20>
     :PROPERTIES:
@@ -97,17 +148,17 @@ Après-midi : CNIL, 3 place de Fontenoy
     :PROPERTIES:
     :ID:       be8aeaf3-e922-4ddc-a398-73c7772c9314
     :END:
-** Bootcamp - Jeudi 8 février
+** Bootcamp - Jeudi 8 février (au LLL puis au BercyLab)
    :PROPERTIES:
    :ID:       9c5f299c-1a2f-4c02-92c8-6d5de9bcf05f
    :END:
 
 Matin : Liberté Living Lab, 9 rue d'Alexandrie.
 
-Après-midi : BercyLab, 139 rue de Bercy
+Après-midi : BercyLab, 139 rue de Bercy.
 
-*** Travail sur les défis en mode hackathon / quick wins #community
-    SCHEDULED: <2018-02-08 jeu. 09:30-11:20>
+*** Travail sur les défis en mode hackathon #community
+    SCHEDULED: <2018-02-08 jeu. 09:30-12:30>
     :PROPERTIES:
     :ID:       2355d7a0-5eeb-4577-8c55-c5253b456bb5
     :END:
@@ -116,37 +167,67 @@ Après-midi : BercyLab, 139 rue de Bercy
     :PROPERTIES:
     :ID:       a0b367e7-1306-4825-90ce-31d039974e9f
     :END:
-*** LLL lead la co-construction du programme de mentorat #maker
-    SCHEDULED: <2018-02-08 jeu. 14:30-17:20>
+*** Co-construction du programme de mentorat #maker
+    SCHEDULED: <2018-02-08 jeu. 14:30-17:00>
     :PROPERTIES:
     :ID:       c9e5e328-c3d4-4c45-b9c0-5b48a852bba4
     :END:
 
-** Bootcamp - Vendredi 9 février
+Au BercyLab, 139 rue de Bercy.
+
+# LLL en lead
+
+*** Point d’étape sur la semaine de bootcamp
+    SCHEDULED: <2018-02-08 jeu. 17:15-18:15>
+    :PROPERTIES:
+    :ID:       c9e5e328-c3d4-4c45-b9c0-5b48a852bba4
+    :END:
+
+** Bootcamp - Vendredi 9 février (SENUM, CGI, Cour des comptes)
    :PROPERTIES:
    :ID:       950cb905-081e-42e5-84da-97d18f5e47ba
    :END:
 
-Matin : 35 rue Saint Dominique puis 32 rue de Babylone, Salle de la
-Chapelle
+Matin : Secrétariat d’État au Numérique, 35 rue Saint Dominique.
 
-Après-midi : 13 rue Cambon
+Matin : 32 rue de Babylone, à l’Hôtel du [[http://www.gouvernement.fr/le-commissariat-general-a-l-investissement][CGI]]
 
-*** Petit déjeuner avec Mounir Mahjoubi, Secrétaire d'Etat au Numérique (35 rue Saint Dominique)
+Après-midi : 13 rue Cambon.
+
+*** Petit déjeuner avec Mounir Mahjoubi au SENUM
     SCHEDULED: <2018-02-09 ven. 09:00-10:00>
     :PROPERTIES:
     :ID:       338771ca-e789-4fd2-9957-93836beb9cb9
     :END:
-*** Bilan avec les mentors et co-construction du programme #community (32 rue de Babylone)
+
+Au SENUM, 35 rue Saint Dominique.
+
+*** Restitution du bootcamp avec les mentors #community
     SCHEDULED: <2018-02-09 ven. 10:30-12:20>
     :PROPERTIES:
     :ID:       21c0a03c-6784-41af-b296-92dfc3bb1a40
     :END:
-*** Learning expedition à la Cour des comptes
+
+À l’Hôtel du [[http://www.gouvernement.fr/le-commissariat-general-a-l-investissement][CGI]], 32 rue de Babylone.
+
+- Introduction de Mathilde
+
+- Retour d’étonnement des mentors
+
+- Présentation de la v0.1 du programme des sessions collectives par
+  les EIG1
+
+- Anticipation sur les besoins des mentors pour construire avec eux
+  leurs sessions dédiées
+
+*** Visite à la Cour des comptes
     SCHEDULED: <2018-02-09 ven. 14:30-16:20>
     :PROPERTIES:
     :ID:       717e079e-25cd-47b4-9d6e-cbc7202c57ab
     :END:
+
+À la cour des comptes, 13 rue de Cambon.
+
 *** Temps libre / Unsession
     SCHEDULED: <2018-02-09 ven. 17:30-18:20>
     :PROPERTIES:

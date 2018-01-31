@@ -6,7 +6,7 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://box.bzg.io/clou
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun.&gt;&#x2013;&lt;2018-02-09 ven.&gt;</span></span>
 
 
-## Bootcamp - Lundi 5 février
+## Bootcamp - Lundi 5 février (à la DINSIC)
 
 Toute la journée : 20 avenue de Ségur / SALLE 4.724
 
@@ -17,40 +17,74 @@ Toute la journée : 20 avenue de Ségur / SALLE 4.724
 ### Icebreaker/présentations/programme #fun
 
 
-### Se situer dans son administration d’accueil et visite de la DINSIC #learn
+### Présentation du programme du bootcamp #fun
+
+Livrables :
+
+-   Co-construction du programme de sessions collectives
+-   Réalisation d’un "quick win" par défi
+-   Repérage des compétences mobilisables par le collectif
+-   Pastille vidéo de communication autour du programme EIG
 
 
-### Rencontre avec les EIG1 et le LLL, premiers étonnements
+### Se situer dans son administration d’accueil #learn
+
+
+### Rencontre avec les EIG1
 
 Le but est de mieux se connaître, de permettre aux EIG1 de partager
 leur expérience avec les EIG2, aux EIG2 de découvrir le LLL et les
 personnes qui seront présentes pour accompagner le programme en 2018.
 
+Pour les EIG1 :
+
+-   Ce qui a été le plus marquant
+-   Les temps forts de leur défi
+-   Un conseil à donner aux EIG2
+-   Quelle suite EIG pour eux ?
+
+
+### Étonnements et attentes par rapport l’accompagnement
+
 
 ### Drink EIG
 
 
-## Bootcamp - Mardi 6 février
+## Bootcamp - Mardi 6 février (au LLL)
 
 Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 
-### Présentation du LLL et échange d’expériences EIG2 #community
+### Petit-déjeuner avec Paul Duan
+
+
+### Présentation des ressources du LLL
+
+
+### Rencontres entre EIG2 et défis #community
+
+
+### Déjeuner avec David Tortel (intervenant ANSSI)
 
 
 ### Outils partagés EIG Link et LLL, cartographie de compétences
 
-Avec le référent technique du côté du LLL.
+Avec Quentin, référent technique au LLL.
+
+Les mentors sont les bienvenus !
 
 
-## Bootcamp - Mercredi 7 février
+## Bootcamp - Mercredi 7 février (à la DINSIC puis à la CNIL)
 
 Matin : 20 avenue de Ségur, salle 4.724
 
 Après-midi : CNIL, 3 place de Fontenoy
 
 
-### Etalab : data gouv, cadre legal, AGD, API entreprise, open gov, open fisca #learn
+### Visite à Étalab #learn
+
+Découverte de data gouv, cadre legal, AGD, API entreprise, open gov,
+open fisca.  Voir [le dépôt eig-link](https://github.com/entrepreneur-interet-general/eig-link/blob/master/bootcamp.org) pour des ressources.
 
 
 ### Learning expedition à la CNIL #community
@@ -62,37 +96,59 @@ Après-midi : CNIL, 3 place de Fontenoy
 ### Drink avec l’incubateur de services numériques
 
 
-## Bootcamp - Jeudi 8 février
+## Bootcamp - Jeudi 8 février (au LLL puis au BercyLab)
 
 Matin : Liberté Living Lab, 9 rue d'Alexandrie.
 
-Après-midi : BercyLab, 139 rue de Bercy
+Après-midi : BercyLab, 139 rue de Bercy.
 
 
-### Travail sur les défis en mode hackathon / quick wins #community
+### Travail sur les défis en mode hackathon #community
 
 
 ### Temps libre / Unsession
 
 
-### LLL lead la co-construction du programme de mentorat #maker
+### Co-construction du programme de mentorat #maker
+
+Au BercyLab, 139 rue de Bercy.
 
 
-## Bootcamp - Vendredi 9 février
-
-Matin : 35 rue Saint Dominique puis 32 rue de Babylone, Salle de la
-Chapelle
-
-Après-midi : 13 rue Cambon
+### Point d’étape sur la semaine de bootcamp
 
 
-### Petit déjeuner avec Mounir Mahjoubi, Secrétaire d'Etat au Numérique (35 rue Saint Dominique)
+## Bootcamp - Vendredi 9 février (SENUM, CGI, Cour des comptes)
+
+Matin : Secrétariat d’État au Numérique, 35 rue Saint Dominique.
+
+Matin : 32 rue de Babylone, à l’Hôtel du [CGI](http://www.gouvernement.fr/le-commissariat-general-a-l-investissement)
+
+Après-midi : 13 rue Cambon.
 
 
-### Bilan avec les mentors et co-construction du programme #community (32 rue de Babylone)
+### Petit déjeuner avec Mounir Mahjoubi au SENUM
+
+Au SENUM, 35 rue Saint Dominique.
 
 
-### Learning expedition à la Cour des comptes
+### Restitution du bootcamp avec les mentors #community
+
+À l’Hôtel du [CGI](http://www.gouvernement.fr/le-commissariat-general-a-l-investissement), 32 rue de Babylone.
+
+-   Introduction de Mathilde
+
+-   Retour d’étonnement des mentors
+
+-   Présentation de la v0.1 du programme des sessions collectives par
+    les EIG1
+
+-   Anticipation sur les besoins des mentors pour construire avec eux
+    leurs sessions dédiées
+
+
+### Visite à la Cour des comptes
+
+À la cour des comptes, 13 rue de Cambon.
 
 
 ### Temps libre / Unsession
