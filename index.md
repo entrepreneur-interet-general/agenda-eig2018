@@ -71,7 +71,11 @@ Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
 
 Avec Quentin, référent technique au LLL.
 
-Les mentors sont les bienvenus !
+**Les mentors sont les bienvenus !**
+
+-   Ressources techniques (voir le dépôt [eig-link](https://github.com/entrepreneur-interet-general/eig-link))
+-   Politique open source du programme (voir [ce dépôt](https://github.com/disic/politique-de-contribution-open-source/) de la DINSIC)
+-   Compétences que chacun veut acquérir ou partager au sein de la promotion
 
 
 ## Bootcamp - Mercredi 7 février (à la DINSIC puis à la CNIL)
