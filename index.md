@@ -3,8 +3,6 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 
 # Semaine de Bootcamp
 
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-02-05 lun.&gt;&#x2013;&lt;2018-02-09 ven.&gt;</span></span>
-
 
 ## Bootcamp - Lundi 5 février (à la DINSIC)
 
@@ -138,26 +136,26 @@ Au SENUM, 35 rue Saint Dominique.
 
 ### Restitution du bootcamp avec les mentors #community
 
-À l’Hôtel du [CGI](http://www.gouvernement.fr/le-commissariat-general-a-l-investissement), 32 rue de Babylone.
+À l’Hôtel du [SGPI](http://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi), 32 rue de Babylone.
 
--   Introduction de Mathilde
+-   Introduction de Mathilde.
 
--   Retour d’étonnement des mentors
+-   Retour d’étonnement des mentors.
 
 -   Présentation de la v0.1 du programme des sessions collectives par
-    les EIG1
+    les EIG1.
 
 -   Anticipation sur les besoins des mentors pour construire avec eux
-    leurs sessions dédiées
+    leurs sessions dédiées.
 
 
 ### Visite à la Cour des comptes
 
-À la cour des comptes, 13 rue de Cambon.
+À la Cour des comptes, 13 rue de Cambon.
 
 
 ### Temps libre / Unsession
 
 
-# Réunion Signaux faibles à Dijon
+# CANCELED Réunion Signaux faibles à Dijon
 
