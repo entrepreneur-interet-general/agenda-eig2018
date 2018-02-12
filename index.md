@@ -1,6 +1,12 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 
+# Clinique hebdomadaire sur slack
+
+
+# Stand up hebdomadaire sur slack
+
+
 # Semaine de Bootcamp
 
 

@@ -2,6 +2,16 @@
 
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
+* Clinique hebdomadaire sur slack
+  SCHEDULED: <2018-02-12 lun. 11:30-12:30 +1w>
+  :PROPERTIES:
+  :ID:       9695425a-0c77-49b3-be3f-59aadffca168
+  :END:
+* Stand up hebdomadaire sur slack
+  SCHEDULED: <2018-02-16 ven. 11:30-12:30 +1w>
+  :PROPERTIES:
+  :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
+  :END:
 * Semaine de Bootcamp
   :PROPERTIES:
   :ID:       7d22214b-0655-4401-a130-b381c9d55dc9
