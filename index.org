@@ -1,9 +1,7 @@
-#+ARCHIVE: ~/.eig2/eig-agenda-archives.org::
-
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
 * Clinique hebdomadaire sur slack
-  SCHEDULED: <2018-02-12 lun. 11:30-12:30 +1w>
+  SCHEDULED: <2018-02-19 lun. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       9695425a-0c77-49b3-be3f-59aadffca168
   :END:
@@ -60,4 +58,12 @@ Matin : 32 rue de Babylone, à l’Hôtel du [[http://www.gouvernement.fr/secret
 l'investissement]].
 
 Après-midi : 13 rue Cambon, Cour des Comptes.
+
+* COMMENT Configuration
+
+#+SEQ_TODO:  STRT(s) NEXT(n) TODO(t) WAIT(w) | DONE(d) CANCELED(c)
+#+LANGUAGE:  fr
+#+DRAWERS:   HIDE LOGBOOK
+#+ARCHIVE:   ~/.eig2/eig-agenda-archives.org::
+#+CATEGORY:  EIG
 
