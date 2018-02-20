@@ -1,16 +1,44 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
+* Apéro EIG près du LLL
+  SCHEDULED: <2018-02-21 mer. 18:00-20:00>
+  :PROPERTIES:
+  :ID:       070b109f-3131-4733-b9c8-cbd02185b457
+  :END:
+* Session d’accompagnement dédiée aux mentors
+  SCHEDULED: <2018-02-22 jeu. 14:00-18:30>
+  :PROPERTIES:
+  :ID:       f87c8849-fc55-4151-a423-38569ebebf54
+  :END:
+* Session d’accompagnement EIG - UI/UX et code review
+  SCHEDULED: <2018-03-22 jeu. 14:00-18:30>
+  :PROPERTIES:
+  :ID:       67990e84-36f2-4d92-b5bd-2eb3996a83c9
+  :END:
+* Session d’accompagnement EIG - travail sur les roadmap
+  SCHEDULED: <2018-03-08 jeu. 14:00-18:30>
+  :PROPERTIES:
+  :ID:       787cd170-0448-41e0-a595-2d4e0efea522
+  :END:
 * Clinique hebdomadaire sur slack
-  SCHEDULED: <2018-02-19 lun. 11:30-12:30 +1w>
+  SCHEDULED: <2018-02-26 lun. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       9695425a-0c77-49b3-be3f-59aadffca168
+  :LAST_REPEAT: [2018-02-19 lun. 14:20]
+  :END:
+  :LOGBOOK:
+  - State "CANCELED"   [2018-02-19 lun. 14:20]
   :END:
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-02-16 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-02-23 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
+  :LAST_REPEAT: [2018-02-16 ven. 12:34]
   :END:
-* Semaine de Bootcamp
+  :LOGBOOK:
+  - State "DONE"       [2018-02-16 ven. 12:34]
+  :END:
+* DONE Semaine de Bootcamp
   :PROPERTIES:
   :ID:       7d22214b-0655-4401-a130-b381c9d55dc9
   :END:
@@ -66,4 +94,3 @@ Après-midi : 13 rue Cambon, Cour des Comptes.
 #+DRAWERS:   HIDE LOGBOOK
 #+ARCHIVE:   ~/.eig2/eig-agenda-archives.org::
 #+CATEGORY:  EIG
-

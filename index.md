@@ -1,13 +1,25 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 
+# Apéro EIG près du LLL
+
+
+# Session d’accompagnement dédiée aux mentors
+
+
+# Session d’accompagnement EIG - UI/UX et code review
+
+
+# Session d’accompagnement EIG - travail sur les roadmap
+
+
 # Clinique hebdomadaire sur slack
 
 
 # Stand up hebdomadaire sur slack
 
 
-# Semaine de Bootcamp
+# DONE Semaine de Bootcamp
 
 
 ## Bootcamp - Lundi 5 février (à la DINSIC)
