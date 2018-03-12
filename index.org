@@ -1,96 +1,73 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Apéro EIG près du LLL
-  SCHEDULED: <2018-02-21 mer. 18:00-20:00>
+* Délégation Ukrainienne rencontre Étalab
+  SCHEDULED: <2018-03-27 mar. 16:00>
   :PROPERTIES:
-  :ID:       070b109f-3131-4733-b9c8-cbd02185b457
+  :ID:       520141c8-7966-4fbd-9883-52900311a167
   :END:
-* Session d’accompagnement dédiée aux mentors
-  SCHEDULED: <2018-02-22 jeu. 14:00-18:30>
+
+Une délégation Ukrainienne rencontre Etalab, et le programme EIG sera
+présenté.
+
+* Mathilde présente EIG en 180 secondes
+  SCHEDULED: <2018-03-16 ven. 18:30>
   :PROPERTIES:
-  :ID:       f87c8849-fc55-4151-a423-38569ebebf54
+  :ID:       4e42ce23-6711-4287-9ad0-0259a4638796
   :END:
+
+Mathilde présente le programme EIG en 180 secondes à un événement sur
+« la fonction publique au 21ème siècle », à Superpublic (4 rue de la
+Vacquerie, Paris 11ème).
+
+https://www.facebook.com/events/187459725190296/
+
 * Session d’accompagnement EIG - UI/UX et code review
   SCHEDULED: <2018-03-22 jeu. 14:00-18:30>
   :PROPERTIES:
   :ID:       67990e84-36f2-4d92-b5bd-2eb3996a83c9
   :END:
-* Session d’accompagnement EIG - travail sur les roadmap
-  SCHEDULED: <2018-03-08 jeu. 14:00-18:30>
+* Session de revue de code avec Quentin
+  SCHEDULED: <2018-03-14 mer. 15:00-18:30>
   :PROPERTIES:
-  :ID:       787cd170-0448-41e0-a595-2d4e0efea522
+  :ID:       fbde68e2-3e66-4702-8350-1e587228bbf9
   :END:
-* Clinique hebdomadaire sur slack
-  SCHEDULED: <2018-02-26 lun. 11:30-12:30 +1w>
+
+Nous ferons un focus sur le web scraping en plongeant dans les
+problématiques et le code d’[[http://github.com/entrepreneur-interet-general/OpenScraper][OpenScraper]] puis nous ferons un autre
+focus sur la problématique du nettoyage de données (en python
+principalement) en partant du [[https://github.com/entrepreneur-interet-general/predisauvetage][code de Prédisauvetage]].
+ 
+* COMMENT Clinique hebdomadaire sur slack
+  SCHEDULED: <2018-03-19 lun. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       9695425a-0c77-49b3-be3f-59aadffca168
-  :LAST_REPEAT: [2018-02-19 lun. 14:20]
+  :LAST_REPEAT: [2018-03-10 sam. 03:16]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-03-10 sam. 03:16]
+  - State "CANCELED"   [2018-03-05 lun. 11:21]
+  - State "CANCELED"   [2018-02-23 ven. 14:50]
   - State "CANCELED"   [2018-02-19 lun. 14:20]
   :END:
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-02-23 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-03-16 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-02-16 ven. 12:34]
+  :LAST_REPEAT: [2018-03-09 ven. 13:56]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-03-09 ven. 13:56]
+  - State "DONE"       [2018-03-02 ven. 17:06]
+  - State "DONE"       [2018-02-23 ven. 12:25]
   - State "DONE"       [2018-02-16 ven. 12:34]
   :END:
-* DONE Semaine de Bootcamp
+* Configuration
   :PROPERTIES:
-  :ID:       7d22214b-0655-4401-a130-b381c9d55dc9
+  :ID:       8c953a43-80c3-40f4-9536-3c95d86992ec
   :END:
-
-** Bootcamp - Lundi 5 février (à la DINSIC)
-   :PROPERTIES:
-   :ID:       91886710-5c95-4a49-8155-f7c8ed7e8c9b
-   :END:
-
-Toute la journée : 20 avenue de Ségur / SALLE 4.724
-
-** Bootcamp - Mardi 6 février (au LLL)
-   :PROPERTIES:
-   :ID:       cc90bd05-a707-436d-a854-c6d76fc33334
-   :END:
-
-Toute la journée : Liberté Living Lab, 9 rue d'Alexandrie.
-
-** Bootcamp - Mercredi 7 février (à la DINSIC puis à la CNIL)
-   :PROPERTIES:
-   :ID:       9cc3db1d-3f13-4765-b6c8-967211dbb0e7
-   :END:
-
-Matin : 20 avenue de Ségur, salle 4.724
-
-Après-midi : CNIL, 3 place de Fontenoy
-
-** Bootcamp - Jeudi 8 février (au LLL puis au BercyLab)
-   :PROPERTIES:
-   :ID:       9c5f299c-1a2f-4c02-92c8-6d5de9bcf05f
-   :END:
-
-Matin : Liberté Living Lab, 9 rue d'Alexandrie.
-
-Après-midi : BercyLab, 139 rue de Bercy.
-
-** Bootcamp - Vendredi 9 février (SENUM, SGPI, Cour des comptes)
-   :PROPERTIES:
-   :ID:       950cb905-081e-42e5-84da-97d18f5e47ba
-   :END:
-
-Matin : Secrétariat d’État au Numérique, 35 rue Saint Dominique.
-
-Matin : 32 rue de Babylone, à l’Hôtel du [[http://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi][Secrétariat général pour
-l'investissement]].
-
-Après-midi : 13 rue Cambon, Cour des Comptes.
-
-* COMMENT Configuration
 
 #+SEQ_TODO:  STRT(s) NEXT(n) TODO(t) WAIT(w) | DONE(d) CANCELED(c)
 #+LANGUAGE:  fr
 #+DRAWERS:   HIDE LOGBOOK
-#+ARCHIVE:   ~/.eig2/eig-agenda-archives.org::
+#+ARCHIVE:   ~/.eig2/archives/eig-agenda-archives.org::
 #+CATEGORY:  EIG
