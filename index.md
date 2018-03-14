@@ -16,7 +16,7 @@ Vacquerie, Paris 11ème).
 <https://www.facebook.com/events/187459725190296/>
 
 
-# Session d’accompagnement EIG : « Utilisateurs »
+# Session EIG orienté « utilisateurs »
 
 
 ## La session sera organisée autour de trois ateliers
