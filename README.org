@@ -1,4 +1,4 @@
 #+title: Agenda EIG 2018
 
-Vous pouvez vous abonner à cet agenda public [[https://box.bzg.io/cloud/index.php/apps/calendar/p/DU3DV27UK2Z0ILGV][en ligne]] ou le suivre
+Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]] ou le suivre
 [[https://entrepreneur-interet-general.github.io/agenda-eig2018/][comme un blog]].
