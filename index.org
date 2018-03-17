@@ -9,18 +9,6 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
 Une délégation Ukrainienne rencontre Etalab, et le programme EIG sera
 présenté.
 
-* Mathilde présente EIG en 180 secondes
-  SCHEDULED: <2018-03-16 ven. 18:30>
-  :PROPERTIES:
-  :ID:       4e42ce23-6711-4287-9ad0-0259a4638796
-  :END:
-
-Mathilde présente le programme EIG en 180 secondes à un événement sur
-« la fonction publique au 21ème siècle », à Superpublic (4 rue de la
-Vacquerie, Paris 11ème).
-
-https://www.facebook.com/events/187459725190296/
-
 * Session EIG orienté « utilisateurs »
   SCHEDULED: <2018-03-22 jeu. 14:00-18:30>
   :PROPERTIES:
@@ -74,12 +62,14 @@ https://www.facebook.com/events/187459725190296/
   - State "CANCELED"   [2018-02-19 lun. 14:20]
   :END:
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-03-16 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-03-30 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-03-09 ven. 13:56]
+  :LAST_REPEAT: [2018-03-16 ven. 16:19]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-03-16 ven. 16:19]
+  - State "DONE"       [2018-03-16 ven. 12:34]
   - State "DONE"       [2018-03-09 ven. 13:56]
   - State "DONE"       [2018-03-02 ven. 17:06]
   - State "DONE"       [2018-02-23 ven. 12:25]

@@ -7,15 +7,6 @@ Une délégation Ukrainienne rencontre Etalab, et le programme EIG sera
 présenté.
 
 
-# Mathilde présente EIG en 180 secondes
-
-Mathilde présente le programme EIG en 180 secondes à un événement sur
-« la fonction publique au 21ème siècle », à Superpublic (4 rue de la
-Vacquerie, Paris 11ème).
-
-<https://www.facebook.com/events/187459725190296/>
-
-
 # Session EIG orienté « utilisateurs »
 
 
