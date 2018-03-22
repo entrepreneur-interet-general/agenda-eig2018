@@ -1,9 +1,31 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Délégation Ukrainienne rencontre Étalab
+* Session d’accompagnement EIG + mentors
+  SCHEDULED: <2018-04-11 mer. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       643efe02-577c-4385-afc0-1341b365b38c
+  :END:
+
+* Session d’accompagnement EIG seuls
+  SCHEDULED: <2018-04-05 jeu. 15:00-18:30>>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       b5a4adf4-0e1e-4a66-a9b7-595fab4765f6
+  :END:
+
+* Session d’accompagnement EIG seuls
+  SCHEDULED: <2018-05-02 mer. 15:00-18:30>>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
+  :END:
+  
+* Une délégation Ukrainienne rencontre Étalab
   SCHEDULED: <2018-03-27 mar. 16:00>
   :PROPERTIES:
   :ID:       520141c8-7966-4fbd-9883-52900311a167
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
   :END:
 
 Une délégation Ukrainienne rencontre Etalab, et le programme EIG sera
@@ -13,6 +35,7 @@ présenté.
   SCHEDULED: <2018-03-22 jeu. 14:00-18:30>
   :PROPERTIES:
   :ID:       67990e84-36f2-4d92-b5bd-2eb3996a83c9
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :END:
 
 ** La session sera organisée autour de trois ateliers
@@ -49,18 +72,6 @@ présenté.
 - *17h30-18h30* : Démos avec un focus sur : comment mon produit
   s’adresse aux utilisateurs ?
 
-* COMMENT Clinique hebdomadaire sur slack
-  SCHEDULED: <2018-03-19 lun. 11:30-12:30 +1w>
-  :PROPERTIES:
-  :ID:       9695425a-0c77-49b3-be3f-59aadffca168
-  :LAST_REPEAT: [2018-03-10 sam. 03:16]
-  :END:
-  :LOGBOOK:
-  - State "CANCELED"   [2018-03-10 sam. 03:16]
-  - State "CANCELED"   [2018-03-05 lun. 11:21]
-  - State "CANCELED"   [2018-02-23 ven. 14:50]
-  - State "CANCELED"   [2018-02-19 lun. 14:20]
-  :END:
 * Stand up hebdomadaire sur slack
   SCHEDULED: <2018-03-30 ven. 11:30-12:30 +1w>
   :PROPERTIES:

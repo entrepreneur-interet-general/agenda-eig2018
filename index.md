@@ -1,7 +1,16 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 
-# Délégation Ukrainienne rencontre Étalab
+# Session d’accompagnement EIG + mentors
+
+
+# Session d’accompagnement EIG seuls
+
+
+# Session d’accompagnement EIG seuls
+
+
+# Une délégation Ukrainienne rencontre Étalab
 
 Une délégation Ukrainienne rencontre Etalab, et le programme EIG sera
 présenté.
