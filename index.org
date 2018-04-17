@@ -8,7 +8,7 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :END:
 
 * Atelier EIG off : « clinique » administration système (Christophe Ninucci)
-  SCHEDULED: <2018-04-27 ven. 15:30-18:00>
+  SCHEDULED: <2018-04-27 ven. 15:30-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       143653fe-d40a-4461-8e22-ee266f4a6734
