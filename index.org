@@ -7,7 +7,18 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
   :END:
 
-* Atelier EIG off fermé : la ligne de commande (Christian Quest)
+* Atelier EIG off : « clinique » administration système (Christophe Ninucci)
+  SCHEDULED: <2018-04-27 ven. 15:30-18:00>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       143653fe-d40a-4461-8e22-ee266f4a6734
+  :END:
+
+La clinique aura lieu en salle Carré B au 3ème étage.
+
+Merci d’envoyer un mail à Christophe pour confirmer votre présence.
+
+* Atelier EIG off : la ligne de commande (Christian Quest)
   SCHEDULED: <2018-05-04 ven. 14:00-18:30>
   :PROPERTIES:
   :LOCATION: 20 avenue de Ségur, 75007 Paris
@@ -23,7 +34,7 @@ Merci d’envoyer un mail à Bastien pour confirmer votre présence.
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
   :END:
 
-* Atelier EIG Off sur l’ouverture, LLL Carré B 3ème
+* Atelier EIG Off sur l’open source, LLL Carré B 3ème
   SCHEDULED: <2018-05-17 jeu. 14:30-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris

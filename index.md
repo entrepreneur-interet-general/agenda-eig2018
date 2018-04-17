@@ -4,7 +4,14 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 # Session d’accompagnement EIG seuls : Documentathon
 
 
-# Atelier EIG off fermé : la ligne de commande (Christian Quest)
+# Atelier EIG off : « clinique » administration système (Christophe Ninucci)
+
+La clinique aura lieu en salle Carré B au 3ème étage.
+
+Merci d’envoyer un mail à Christophe pour confirmer votre présence.
+
+
+# Atelier EIG off : la ligne de commande (Christian Quest)
 
 Merci d’envoyer un mail à Bastien pour confirmer votre présence.
 
@@ -12,7 +19,7 @@ Merci d’envoyer un mail à Bastien pour confirmer votre présence.
 # Session d’accompagnement EIG + mentors et DSI : Pérennisation
 
 
-# Atelier EIG Off sur l’ouverture, LLL Carré B 3ème
+# Atelier EIG Off sur l’open source, LLL Carré B 3ème
 
 Nous aurons en guest Laurent Joubert, porteur de la [politique de
 contribution open source](https://github.com/disic/politique-de-contribution-open-source/) au sein de la DINSIC et nous en profiterons
