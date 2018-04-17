@@ -1,92 +1,10 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Atelier EIG Off sur l’ouverture, LLL Carré B 3ème
-  SCHEDULED: <2018-05-17 jeu. 14:30-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       3fb5d4b7-9c5e-48be-aab0-3b9e8b597fe0
-  :END:
-
-Nous aurons en guest Laurent Joubert, porteur de la [[https://github.com/disic/politique-de-contribution-open-source/][politique de
-contribution open source]] au sein de la DINSIC et nous en profiterons
-pour tester/compléter/améliorer les « guides » proposés sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org][cette
-page EIG]].
-
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-11-22 jeu. 15:00-18:30>
+* Session d’accompagnement EIG seuls : Documentathon
+  SCHEDULED: <2018-05-02 mer. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
-  :END:
-
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-11-08 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       f04c9239-8105-47a4-ada6-1d1e92820162
-  :END:
-
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-10-25 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       d9162abe-d208-48b0-b71b-14aabc28805e
-  :END:
-
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-10-11 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       a2987744-17ec-4139-8649-a9954dbf7c98
-  :END:
-
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-09-27 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       dfdd897d-b96a-450d-95f2-80acc2a3506d
-  :END:
-
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-09-13 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
-  :END:
-
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-08-30 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       bcf32d41-f147-4561-a2ec-e421ba5a3c9f
-  :END:
-
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-07-06 ven. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       c2215c4e-397f-4802-8739-af4e57946df4
-  :END:
-
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-06-21 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       6211b742-543f-40dd-a926-cb17e63252e7
-  :END:
-
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-06-14 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       ec2799c1-a3f6-4804-a7b3-b993b1bd1589
-  :END:
-
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       a6d8c680-3b29-48e3-8602-707f04309517
   :END:
 
 * Atelier EIG off fermé : la ligne de commande (Christian Quest)
@@ -105,8 +23,90 @@ Merci d’envoyer un mail à Bastien pour confirmer votre présence.
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
   :END:
 
-* Session d’accompagnement EIG seuls : Documentathon
-  SCHEDULED: <2018-05-02 mer. 15:00-18:30>
+* Atelier EIG Off sur l’ouverture, LLL Carré B 3ème
+  SCHEDULED: <2018-05-17 jeu. 14:30-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       3fb5d4b7-9c5e-48be-aab0-3b9e8b597fe0
+  :END:
+
+Nous aurons en guest Laurent Joubert, porteur de la [[https://github.com/disic/politique-de-contribution-open-source/][politique de
+contribution open source]] au sein de la DINSIC et nous en profiterons
+pour tester/compléter/améliorer les « guides » proposés sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org][cette
+page EIG]].
+
+* Session d’accompagnement EIG seuls (contenu à définir)
+  SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       a6d8c680-3b29-48e3-8602-707f04309517
+  :END:
+
+* Session d’accompagnement EIG + mentors (contenu à définir)
+  SCHEDULED: <2018-06-14 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       ec2799c1-a3f6-4804-a7b3-b993b1bd1589
+  :END:
+
+* Session d’accompagnement EIG seuls (contenu à définir)
+  SCHEDULED: <2018-06-21 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       6211b742-543f-40dd-a926-cb17e63252e7
+  :END:
+
+* Session d’accompagnement EIG + mentors (contenu à définir)
+  SCHEDULED: <2018-07-06 ven. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       c2215c4e-397f-4802-8739-af4e57946df4
+  :END:
+
+* Session d’accompagnement EIG seuls (contenu à définir)
+  SCHEDULED: <2018-08-30 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       bcf32d41-f147-4561-a2ec-e421ba5a3c9f
+  :END:
+
+* Session d’accompagnement EIG + mentors (contenu à définir)
+  SCHEDULED: <2018-09-13 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
+  :END:
+
+* Session d’accompagnement EIG seuls (contenu à définir)
+  SCHEDULED: <2018-09-27 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       dfdd897d-b96a-450d-95f2-80acc2a3506d
+  :END:
+
+* Session d’accompagnement EIG + mentors (contenu à définir)
+  SCHEDULED: <2018-10-11 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       a2987744-17ec-4139-8649-a9954dbf7c98
+  :END:
+
+* Session d’accompagnement EIG seuls (contenu à définir)
+  SCHEDULED: <2018-10-25 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       d9162abe-d208-48b0-b71b-14aabc28805e
+  :END:
+
+* Session d’accompagnement EIG + mentors (contenu à définir)
+  SCHEDULED: <2018-11-08 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       f04c9239-8105-47a4-ada6-1d1e92820162
+  :END:
+
+* Session d’accompagnement EIG seuls (contenu à définir)
+  SCHEDULED: <2018-11-22 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
