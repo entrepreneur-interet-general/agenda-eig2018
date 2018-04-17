@@ -1,5 +1,17 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
+* Atelier EIG Off sur l’ouverture, LLL Carré B 3ème
+  SCHEDULED: <2018-05-17 jeu. 14:30-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       3fb5d4b7-9c5e-48be-aab0-3b9e8b597fe0
+  :END:
+
+Nous aurons en guest Laurent Joubert, porteur de la [[https://github.com/disic/politique-de-contribution-open-source/][politique de
+contribution open source]] au sein de la DINSIC et nous en profiterons
+pour tester/compléter/améliorer les « guides » proposés sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org][cette
+page EIG]].
+
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-11-22 jeu. 15:00-18:30>
   :PROPERTIES:
