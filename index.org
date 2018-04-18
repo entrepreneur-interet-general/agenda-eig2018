@@ -27,11 +27,11 @@ Merci d’envoyer un mail à Christophe pour confirmer votre présence.
 
 Merci d’envoyer un mail à Bastien pour confirmer votre présence.
 
-* Session d’accompagnement EIG + mentors et DSI : Pérennisation
+* Session d’accompagnement EIG, mentors et DSI : Pérennisation
   SCHEDULED: <2018-05-16 mer. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
+  :ID:       906bdc45-eff8-4a93-9a0a-9f4b15578497
   :END:
 
 * Atelier EIG Off sur l’open source, LLL Carré B 3ème

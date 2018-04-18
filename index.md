@@ -16,7 +16,7 @@ Merci d’envoyer un mail à Christophe pour confirmer votre présence.
 Merci d’envoyer un mail à Bastien pour confirmer votre présence.
 
 
-# Session d’accompagnement EIG + mentors et DSI : Pérennisation
+# Session d’accompagnement EIG, mentors et DSI : Pérennisation
 
 
 # Atelier EIG Off sur l’open source, LLL Carré B 3ème
