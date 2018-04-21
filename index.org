@@ -1,12 +1,5 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Session d’accompagnement EIG seuls : Documentathon
-  SCHEDULED: <2018-05-02 mer. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
-  :END:
-
 * Atelier EIG off : « clinique » administration système (Christophe Ninucci)
   SCHEDULED: <2018-04-27 ven. 15:30-18:30>
   :PROPERTIES:
@@ -17,6 +10,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
 La clinique aura lieu en salle Carré B au 3ème étage.
 
 Merci d’envoyer un mail à Christophe pour confirmer votre présence.
+
+* Session d’accompagnement EIG seuls : Documentathon
+  SCHEDULED: <2018-05-02 mer. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
+  :END:
 
 * Atelier EIG off : la ligne de commande (Christian Quest)
   SCHEDULED: <2018-05-04 ven. 14:00-18:30>
@@ -43,8 +43,18 @@ Merci d’envoyer un mail à Bastien pour confirmer votre présence.
 
 Nous aurons en guest Laurent Joubert, porteur de la [[https://github.com/disic/politique-de-contribution-open-source/][politique de
 contribution open source]] au sein de la DINSIC et nous en profiterons
-pour tester/compléter/améliorer les « guides » proposés sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org][cette
-page EIG]].
+pour tester/compléter/améliorer les « guides » proposés sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org][cette page
+EIG]].
+
+* Atelier de revue de code frontend avec Quentin, LLL Grand Atelier
+  SCHEDULED: <2018-05-23 mer. 14:30-18:30>
+  :PROPERTIES:
+  :ID:       7622b0bf-3435-4228-a893-14cedad214d8
+  :END:
+
+Comme pour le premier atelier de revue de code, nous prendrons des
+exemples de code frontend et nous les lirons pour voir comment les
+améliorer et répondre aux questions.
 
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
@@ -124,12 +134,13 @@ page EIG]].
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-04-20 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-04-27 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-04-13 ven. 11:30]
+  :LAST_REPEAT: [2018-04-20 ven. 00:02]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-04-20 ven. 00:02]
   - State "CANCELED"   [2018-04-13 ven. 11:30]
   - State "DONE"       [2018-04-06 ven. 12:59]
   - State "CANCELED"   [2018-03-30 ven. 14:29]
