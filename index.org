@@ -15,7 +15,7 @@ Merci d’envoyer un mail à Christophe pour confirmer votre présence.
   SCHEDULED: <2018-05-02 mer. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
+  :ID:       211e8fa9-cddb-4146-a074-4d31ba060fbf
   :END:
 
 * Atelier EIG off : la ligne de commande (Christian Quest)
@@ -134,12 +134,13 @@ améliorer et répondre aux questions.
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-04-27 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-05-04 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-04-20 ven. 00:02]
+  :LAST_REPEAT: [2018-04-22 dim. 17:41]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-04-22 dim. 17:41]
   - State "CANCELED"   [2018-04-20 ven. 00:02]
   - State "CANCELED"   [2018-04-13 ven. 11:30]
   - State "DONE"       [2018-04-06 ven. 12:59]
