@@ -1,16 +1,5 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Atelier EIG off : « clinique » administration système (Christophe Ninucci)
-  SCHEDULED: <2018-04-27 ven. 15:30-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       143653fe-d40a-4461-8e22-ee266f4a6734
-  :END:
-
-La clinique aura lieu en salle Carré B au 3ème étage.
-
-Merci d’envoyer un mail à Christophe pour confirmer votre présence.
-
 * Session d’accompagnement EIG seuls : Documentathon
   SCHEDULED: <2018-05-02 mer. 15:00-18:30>
   :PROPERTIES:
@@ -55,6 +44,13 @@ EIG]].
 Comme pour le premier atelier de revue de code, nous prendrons des
 exemples de code frontend et nous les lirons pour voir comment les
 améliorer et répondre aux questions.
+
+* Étalab talk DataESR salle 4.109
+  SCHEDULED: <2018-05-24 jeu. 12:30-13:30>
+  :PROPERTIES:
+  :CAPTURED: [2018-04-16 lun. 10:36]
+  :ID:       96b0fb4a-7c12-47ea-ad17-2c50f13ebd62
+  :END:
 
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-05-31 jeu. 15:00-18:30>

@@ -1,13 +1,6 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 
-# Atelier EIG off : « clinique » administration système (Christophe Ninucci)
-
-La clinique aura lieu en salle Carré B au 3ème étage.
-
-Merci d’envoyer un mail à Christophe pour confirmer votre présence.
-
-
 # Session d’accompagnement EIG seuls : Documentathon
 
 
@@ -32,6 +25,9 @@ EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouvert
 Comme pour le premier atelier de revue de code, nous prendrons des
 exemples de code frontend et nous les lirons pour voir comment les
 améliorer et répondre aux questions.
+
+
+# Étalab talk DataESR salle 4.109
 
 
 # Session d’accompagnement EIG seuls (contenu à définir)
