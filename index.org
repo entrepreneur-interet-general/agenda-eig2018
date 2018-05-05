@@ -1,21 +1,5 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Session d’accompagnement EIG seuls : Documentathon
-  SCHEDULED: <2018-05-02 mer. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       211e8fa9-cddb-4146-a074-4d31ba060fbf
-  :END:
-
-* Atelier EIG off : la ligne de commande (Christian Quest)
-  SCHEDULED: <2018-05-04 ven. 14:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :ID:       d032a2a6-6afc-4fcd-89fb-6fb8695622d4
-  :END:
-
-Merci d’envoyer un mail à Bastien pour confirmer votre présence.
-
 * Session d’accompagnement EIG, mentors et DSI : Pérennisation
   SCHEDULED: <2018-05-16 mer. 15:00-18:30>
   :PROPERTIES:
@@ -23,10 +7,10 @@ Merci d’envoyer un mail à Bastien pour confirmer votre présence.
   :ID:       906bdc45-eff8-4a93-9a0a-9f4b15578497
   :END:
 
-* Atelier EIG Off sur l’open source, LLL Carré B 3ème
-  SCHEDULED: <2018-05-17 jeu. 14:30-18:30>
+* Atelier EIG Off sur l’open source, Ségur, salle 5.107
+  SCHEDULED: <2018-05-17 jeu. 14:00-17:00>
   :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
   :ID:       3fb5d4b7-9c5e-48be-aab0-3b9e8b597fe0
   :END:
 
@@ -38,6 +22,7 @@ EIG]].
 * Atelier de revue de code frontend avec Quentin, LLL Grand Atelier
   SCHEDULED: <2018-05-23 mer. 14:30-18:30>
   :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       7622b0bf-3435-4228-a893-14cedad214d8
   :END:
 
@@ -49,6 +34,7 @@ améliorer et répondre aux questions.
   SCHEDULED: <2018-05-24 jeu. 12:30-13:30>
   :PROPERTIES:
   :CAPTURED: [2018-04-16 lun. 10:36]
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
   :ID:       96b0fb4a-7c12-47ea-ad17-2c50f13ebd62
   :END:
 
@@ -130,12 +116,13 @@ améliorer et répondre aux questions.
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-05-04 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-05-11 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-04-22 dim. 17:41]
+  :LAST_REPEAT: [2018-05-04 ven. 11:49]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-05-04 ven. 11:49]
   - State "CANCELED"   [2018-04-22 dim. 17:41]
   - State "CANCELED"   [2018-04-20 ven. 00:02]
   - State "CANCELED"   [2018-04-13 ven. 11:30]
