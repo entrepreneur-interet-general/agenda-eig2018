@@ -1,25 +1,6 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Session d’accompagnement EIG, mentors et DSI : Pérennisation
-  SCHEDULED: <2018-05-16 mer. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       906bdc45-eff8-4a93-9a0a-9f4b15578497
-  :END:
-
-* Atelier EIG Off sur l’open source, Ségur, salle 5.107
-  SCHEDULED: <2018-05-17 jeu. 14:00-17:00>
-  :PROPERTIES:
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :ID:       3fb5d4b7-9c5e-48be-aab0-3b9e8b597fe0
-  :END:
-
-Nous aurons en guest Laurent Joubert, porteur de la [[https://github.com/disic/politique-de-contribution-open-source/][politique de
-contribution open source]] au sein de la DINSIC et nous en profiterons
-pour tester/compléter/améliorer les « guides » proposés sur [[https://github.com/entrepreneur-interet-general/eig-link/blob/master/ouverture.org][cette page
-EIG]].
-
-* Atelier de revue de code frontend avec Quentin, LLL Grand Atelier
+* Revue de code frontend avec Quentin, LLL Grand Atelier
   SCHEDULED: <2018-05-23 mer. 14:30-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
@@ -29,14 +10,6 @@ EIG]].
 Comme pour le premier atelier de revue de code, nous prendrons des
 exemples de code frontend et nous les lirons pour voir comment les
 améliorer et répondre aux questions.
-
-* Étalab talk DataESR salle 4.109
-  SCHEDULED: <2018-05-24 jeu. 12:30-13:30>
-  :PROPERTIES:
-  :CAPTURED: [2018-04-16 lun. 10:36]
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :ID:       96b0fb4a-7c12-47ea-ad17-2c50f13ebd62
-  :END:
 
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
@@ -116,12 +89,14 @@ améliorer et répondre aux questions.
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-05-11 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-05-25 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-05-04 ven. 11:49]
+  :LAST_REPEAT: [2018-05-18 ven. 14:37]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-05-18 ven. 14:37]
+  - State "CANCELED"   [2018-05-07 lun. 19:22]
   - State "DONE"       [2018-05-04 ven. 11:49]
   - State "CANCELED"   [2018-04-22 dim. 17:41]
   - State "CANCELED"   [2018-04-20 ven. 00:02]
