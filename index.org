@@ -1,31 +1,20 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Revue de code frontend avec Quentin, LLL Grand Atelier
-  SCHEDULED: <2018-05-23 mer. 14:30-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       7622b0bf-3435-4228-a893-14cedad214d8
-  :END:
-
-Comme pour le premier atelier de revue de code, nous prendrons des
-exemples de code frontend et nous les lirons pour voir comment les
-améliorer et répondre aux questions.
-
-* Session d’accompagnement EIG seuls (contenu à définir)
+* Session d’accompagnement EIG seuls (revue de code et préparation démo day)
   SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       a6d8c680-3b29-48e3-8602-707f04309517
   :END:
 
-* Session d’accompagnement EIG + mentors (contenu à définir)
+* Session d’accompagnement EIG + mentors (point mi-parcours)
   SCHEDULED: <2018-06-14 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       ec2799c1-a3f6-4804-a7b3-b993b1bd1589
   :END:
 
-* Session d’accompagnement EIG seuls (contenu à définir)
+* Session d’accompagnement EIG seuls (démo day)
   SCHEDULED: <2018-06-21 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
@@ -89,12 +78,13 @@ améliorer et répondre aux questions.
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-05-25 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-06-01 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-05-18 ven. 14:37]
+  :LAST_REPEAT: [2018-05-25 ven. 12:16]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-05-25 ven. 12:16]
   - State "DONE"       [2018-05-18 ven. 14:37]
   - State "CANCELED"   [2018-05-07 lun. 19:22]
   - State "DONE"       [2018-05-04 ven. 11:49]
