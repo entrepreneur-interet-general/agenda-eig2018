@@ -1,30 +1,30 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Session d’accompagnement EIG seuls (revue de code et préparation démo day)
+* DONE Session d’accompagnement EIG seuls (revue de code et préparation démo day)
   SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       a6d8c680-3b29-48e3-8602-707f04309517
   :END:
 
-* Session d’accompagnement EIG + mentors (point mi-parcours)
+* Session d’accompagnement EIG + mentors (bilan à mi-parcours)
   SCHEDULED: <2018-06-14 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       ec2799c1-a3f6-4804-a7b3-b993b1bd1589
   :END:
 
-* Session d’accompagnement EIG seuls (démo day)
-  SCHEDULED: <2018-06-21 jeu. 15:00-18:30>
+* Session d’accompagnement EIG seuls ("demo day")
+  SCHEDULED: <2018-06-21 jeu. 13:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       6211b742-543f-40dd-a926-cb17e63252e7
   :END:
 
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-07-06 ven. 15:00-18:30>
+* Session d’accompagnement mentors seuls (à Ségur)
+  SCHEDULED: <2018-07-12 jeu. 15:00-18:30>
   :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
   :ID:       c2215c4e-397f-4802-8739-af4e57946df4
   :END:
 
@@ -78,12 +78,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-06-01 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-06-08 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-05-25 ven. 12:16]
+  :LAST_REPEAT: [2018-06-01 ven. 12:14]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-06-01 ven. 12:14]
   - State "DONE"       [2018-05-25 ven. 12:16]
   - State "DONE"       [2018-05-18 ven. 14:37]
   - State "CANCELED"   [2018-05-07 lun. 19:22]
