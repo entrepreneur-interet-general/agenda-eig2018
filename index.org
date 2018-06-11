@@ -78,12 +78,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-06-08 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-06-15 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-06-01 ven. 12:14]
+  :LAST_REPEAT: [2018-06-07 jeu. 17:20]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-06-07 jeu. 17:20]
   - State "DONE"       [2018-06-01 ven. 12:14]
   - State "DONE"       [2018-05-25 ven. 12:16]
   - State "DONE"       [2018-05-18 ven. 14:37]
