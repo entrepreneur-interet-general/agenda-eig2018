@@ -7,6 +7,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :ID:       6211b742-543f-40dd-a926-cb17e63252e7
   :END:
 
+* Session de revue de modèles organisée par Philéas
+  SCHEDULED: <2018-06-27 mer. 14:00-18:00>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       b0839f8b-01d0-4109-aa14-dcca71be47b0
+  :END:
+
 * Session d’accompagnement mentors seuls (à Ségur)
   SCHEDULED: <2018-07-12 jeu. 15:00-18:30>
   :PROPERTIES:

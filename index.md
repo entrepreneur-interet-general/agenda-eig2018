@@ -4,6 +4,9 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 # Session d’accompagnement EIG seuls ("demo day")
 
 
+# Session de revue de modèles organisée par Philéas
+
+
 # Session d’accompagnement mentors seuls (à Ségur)
 
 
