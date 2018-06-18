@@ -1,21 +1,7 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* DONE Session d’accompagnement EIG seuls (revue de code et préparation démo day)
-  SCHEDULED: <2018-05-31 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       a6d8c680-3b29-48e3-8602-707f04309517
-  :END:
-
-* Session d’accompagnement EIG + mentors (bilan à mi-parcours)
-  SCHEDULED: <2018-06-14 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       ec2799c1-a3f6-4804-a7b3-b993b1bd1589
-  :END:
-
 * Session d’accompagnement EIG seuls ("demo day")
-  SCHEDULED: <2018-06-21 jeu. 13:00-18:30>
+  SCHEDULED: <2018-06-21 jeu. 13:30-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       6211b742-543f-40dd-a926-cb17e63252e7
@@ -78,12 +64,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :END:
 
 * Stand up hebdomadaire sur slack
-  SCHEDULED: <2018-06-15 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-06-22 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-06-07 jeu. 17:20]
+  :LAST_REPEAT: [2018-06-15 ven. 11:26]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-06-15 ven. 11:26]
   - State "CANCELED"   [2018-06-07 jeu. 17:20]
   - State "DONE"       [2018-06-01 ven. 12:14]
   - State "DONE"       [2018-05-25 ven. 12:16]
