@@ -68,6 +68,17 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
   :END:
 
+* Étalab talk d'Antoine Augusti sur Apache Airflow à Ségur salle 5.720
+  SCHEDULED: <2018-09-21 ven. 12:30-14:00>
+  :PROPERTIES:
+  :LOCATION: 20 avenue de Ségur, 75007 Paris
+  :ID:       c66866c1-ddae-488e-b785-617a3e17ed5b
+  :END:
+
+- De 12h30 à 14h00
+- Thème : Étalab Talk sur Apache Airflow
+- Salle 5.720
+
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-09-27 jeu. 15:00-18:30>
   :PROPERTIES:
