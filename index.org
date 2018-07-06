@@ -7,12 +7,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   <2018-09-06 jeu.>-<2018-09-09 dim.>
   
 * Stand up hebdomadaire sur Slack
-  SCHEDULED: <2018-07-06 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-07-13 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-06-30 sam. 09:12]
+  :LAST_REPEAT: [2018-07-06 ven. 12:16]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-07-06 ven. 12:16]
   - State "DONE"       [2018-06-30 sam. 09:12]
   - State "CANCELED"   [2018-06-22 ven. 15:15]
   - State "DONE"       [2018-06-15 ven. 11:26]
@@ -69,15 +70,11 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :END:
 
 * Étalab talk d'Antoine Augusti sur Apache Airflow à Ségur salle 5.720
-  SCHEDULED: <2018-09-21 ven. 12:30-14:00>
+  SCHEDULED: <2018-10-12 ven. 12:00-14:00>
   :PROPERTIES:
   :LOCATION: 20 avenue de Ségur, 75007 Paris
   :ID:       c66866c1-ddae-488e-b785-617a3e17ed5b
   :END:
-
-- De 12h30 à 14h00
-- Thème : Étalab Talk sur Apache Airflow
-- Salle 5.720
 
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-09-27 jeu. 15:00-18:30>

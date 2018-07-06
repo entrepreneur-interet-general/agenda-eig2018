@@ -26,10 +26,6 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 
 # Étalab talk d'Antoine Augusti sur Apache Airflow à Ségur salle 5.720
 
--   De 12h30 à 14h00
--   Thème : Étalab Talk sur Apache Airflow
--   Salle 5.720
-
 
 # Session d’accompagnement EIG seuls (contenu à définir)
 
