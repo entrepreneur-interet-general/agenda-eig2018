@@ -7,12 +7,13 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   <2018-09-06 jeu.>-<2018-09-09 dim.>
   
 * Stand up hebdomadaire sur Slack
-  SCHEDULED: <2018-07-13 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-07-20 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-07-06 ven. 12:16]
+  :LAST_REPEAT: [2018-07-13 ven. 18:15]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-07-13 ven. 18:15]
   - State "CANCELED"   [2018-07-06 ven. 12:16]
   - State "DONE"       [2018-06-30 sam. 09:12]
   - State "CANCELED"   [2018-06-22 ven. 15:15]
@@ -36,25 +37,6 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   - State "DONE"       [2018-02-16 ven. 12:34]
   :END:
 
-* Session de « model review » organisée par Philéas
-  SCHEDULED: <2018-07-11 mer. 14:00-18:00>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       bf29a774-a082-4426-b2bc-f57ece4cf584
-  :END:
-* Session d’accompagnement mentors seuls (à Ségur)
-  SCHEDULED: <2018-07-12 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 20 avenue de Ségur, 75007 Paris
-  :ID:       c2215c4e-397f-4802-8739-af4e57946df4
-  :END:
-
-* Session de « design review » aux Gobelins
-  SCHEDULED: <2018-07-18 mer. 15:00-18:00>
-  :PROPERTIES:
-  :LOCATION: Mobilier National, 1 rue Berbier de Mets, 75013 Paris
-  :ID:       5b44eb7a-bc66-488c-9286-68bdc3d12700
-  :END:
 * Session d’accompagnement EIG seuls (contenu à définir)
   SCHEDULED: <2018-08-30 jeu. 15:00-18:30>
   :PROPERTIES:
@@ -62,12 +44,34 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :ID:       bcf32d41-f147-4561-a2ec-e421ba5a3c9f
   :END:
 
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-09-13 jeu. 15:00-18:30>
+LLL – Atelier C rue du Caire.
+
+EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
+
+* Session Mentors EIG 2 et EIG 3
+  SCHEDULED: <2018-09-20 jeu. 15:00-18:30>
   :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :LOCATION: N/A
   :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
   :END:
+
+* Session EIG seuls toute la journée
+  SCHEDULED: <2018-09-27 jeu. 09:30-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       dfdd897d-b96a-450d-95f2-80acc2a3506d
+  :END:
+
+LLL - Grand Atelier rue d'Alexandrie.
+
+* Session Mentors en formations par les EIG
+  SCHEDULED: <2018-10-11 jeu. 15:00-18:30>
+  :PROPERTIES:
+  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
+  :ID:       a2987744-17ec-4139-8649-a9954dbf7c98
+  :END:
+
+LLL - Grand Atelier rue d'Alexandrie.
 
 * Étalab talk d'Antoine Augusti sur Apache Airflow à Ségur salle 5.720
   SCHEDULED: <2018-10-12 ven. 12:00-14:00>
@@ -76,36 +80,17 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   :ID:       c66866c1-ddae-488e-b785-617a3e17ed5b
   :END:
 
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-09-27 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       dfdd897d-b96a-450d-95f2-80acc2a3506d
-  :END:
-
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-10-11 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       a2987744-17ec-4139-8649-a9954dbf7c98
-  :END:
-
-* Session d’accompagnement EIG seuls (contenu à définir)
+* Session EIG seuls
   SCHEDULED: <2018-10-25 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       d9162abe-d208-48b0-b71b-14aabc28805e
   :END:
 
-* Session d’accompagnement EIG + mentors (contenu à définir)
-  SCHEDULED: <2018-11-08 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       f04c9239-8105-47a4-ada6-1d1e92820162
-  :END:
+LLL - Grand Atelier rue d'Alexandrie.
 
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-11-22 jeu. 15:00-18:30>
+* Session finale EIG et mentors
+  SCHEDULED: <2018-11-15 jeu. 15:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac

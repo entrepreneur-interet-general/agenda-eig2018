@@ -9,37 +9,35 @@ Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forev
 # Stand up hebdomadaire sur Slack
 
 
-# Session de « model review » organisée par Philéas
-
-
-# Session d’accompagnement mentors seuls (à Ségur)
-
-
-# Session de « design review » aux Gobelins
-
-
 # Session d’accompagnement EIG seuls (contenu à définir)
 
+LLL – Atelier C rue du Caire.
 
-# Session d’accompagnement EIG + mentors (contenu à définir)
+EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
+
+
+# Session Mentors EIG 2 et EIG 3
+
+
+# Session EIG seuls toute la journée
+
+LLL - Grand Atelier rue d'Alexandrie.
+
+
+# Session Mentors en formations par les EIG
+
+LLL - Grand Atelier rue d'Alexandrie.
 
 
 # Étalab talk d'Antoine Augusti sur Apache Airflow à Ségur salle 5.720
 
 
-# Session d’accompagnement EIG seuls (contenu à définir)
+# Session EIG seuls
+
+LLL - Grand Atelier rue d'Alexandrie.
 
 
-# Session d’accompagnement EIG + mentors (contenu à définir)
-
-
-# Session d’accompagnement EIG seuls (contenu à définir)
-
-
-# Session d’accompagnement EIG + mentors (contenu à définir)
-
-
-# Session d’accompagnement EIG seuls (contenu à définir)
+# Session finale EIG et mentors
 
 
 # Configuration
