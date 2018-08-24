@@ -61,6 +61,12 @@ EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
   :LOCATION: 110 bis, 110 rue de Grenelle 75007 Paris
   :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
   :END:
+  
+* Atelier Etalab sur les algorithmes publics avec la FING et Loup Cellard
+  SCHEDULED: <2018-09-26 mer. 14:30-18:00>
+  :PROPERTIES:
+  :LOCATION: N/A
+  :END:  
 
 * Session EIG seuls toute la journée
   SCHEDULED: <2018-09-27 jeu. 09:30-18:30>
