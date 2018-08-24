@@ -7,12 +7,19 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   <2018-09-06 jeu.>-<2018-09-09 dim.>
   
 * Stand up hebdomadaire sur Slack
-  SCHEDULED: <2018-07-20 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-09-07 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-07-13 ven. 18:15]
+  :LAST_REPEAT: [2018-08-16 jeu. 12:14]
   :END:
   :LOGBOOK:
+  - State "CANCELED"   [2018-08-16 jeu. 12:14]
+  - State "CANCELED"   [2018-08-16 jeu. 12:14]
+  - State "CANCELED"   [2018-08-16 jeu. 12:14]
+  - State "CANCELED"   [2018-08-06 lun. 12:04]
+  - State "CANCELED"   [2018-08-03 ven. 16:28]
+  - State "CANCELED"   [2018-07-25 mer. 22:30]
+  - State "CANCELED"   [2018-07-20 ven. 09:23]
   - State "CANCELED"   [2018-07-13 ven. 18:15]
   - State "CANCELED"   [2018-07-06 ven. 12:16]
   - State "DONE"       [2018-06-30 sam. 09:12]
@@ -51,7 +58,7 @@ EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
 * Session Mentors EIG 2 et EIG 3
   SCHEDULED: <2018-09-20 jeu. 15:00-18:30>
   :PROPERTIES:
-  :LOCATION: N/A
+  :LOCATION: 110 bis, 110 rue de Grenelle 75007 Paris
   :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
   :END:
 
