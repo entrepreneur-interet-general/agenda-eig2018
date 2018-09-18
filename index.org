@@ -1,18 +1,14 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
-* Séjour EIG « hors les murs »
-  :PROPERTIES:
-  :ID:       12f0930c-2763-48c5-bcde-20f77234e60e
-  :END:
-  <2018-09-06 jeu.>-<2018-09-09 dim.>
-  
-* Stand up hebdomadaire sur Slack
-  SCHEDULED: <2018-09-07 ven. 11:30-12:30 +1w>
+* Stand up hebdomadaire https://mensuel.framapad.org/p/eig-standup-hebdo
+  SCHEDULED: <2018-09-21 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-08-16 jeu. 12:14]
+  :LAST_REPEAT: [2018-09-14 ven. 14:29]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-09-14 ven. 14:29]
+  - State "CANCELED"   [2018-09-06 jeu. 07:02]
   - State "CANCELED"   [2018-08-16 jeu. 12:14]
   - State "CANCELED"   [2018-08-16 jeu. 12:14]
   - State "CANCELED"   [2018-08-16 jeu. 12:14]
@@ -44,17 +40,6 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   - State "DONE"       [2018-02-16 ven. 12:34]
   :END:
 
-* Session d’accompagnement EIG seuls (contenu à définir)
-  SCHEDULED: <2018-08-30 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       bcf32d41-f147-4561-a2ec-e421ba5a3c9f
-  :END:
-
-LLL – Atelier C rue du Caire.
-
-EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
-
 * Session Mentors EIG 2 et EIG 3
   SCHEDULED: <2018-09-20 jeu. 15:00-18:30>
   :PROPERTIES:
@@ -63,9 +48,10 @@ EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
   :END:
   
 * Atelier Etalab sur les algorithmes publics avec la FING et Loup Cellard
-  SCHEDULED: <2018-09-26 mer. 14:30-18:00>
+  SCHEDULED: <2018-09-26 mer. 14:00-18:00>
   :PROPERTIES:
   :LOCATION: N/A
+  :ID:       7e02c62f-f7b2-4c3b-bd53-8abcdfc59404
   :END:  
 
 * Session EIG seuls toute la journée

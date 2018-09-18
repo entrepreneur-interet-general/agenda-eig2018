@@ -1,22 +1,13 @@
 Vous pouvez vous abonner à cet agenda public [en ligne](https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018).
 
 
-# Séjour EIG « hors les murs »
-
-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-09-06 jeu.&gt;</span></span>-<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-09-09 dim.&gt;</span></span>
-
-
-# Stand up hebdomadaire sur Slack
-
-
-# Session d’accompagnement EIG seuls (contenu à définir)
-
-LLL – Atelier C rue du Caire.
-
-EIG seuls / session de pré-rentrée : réflexions sur l’après-EIG.
+# Stand up hebdomadaire <https://mensuel.framapad.org/p/eig-standup-hebdo>
 
 
 # Session Mentors EIG 2 et EIG 3
+
+
+# Atelier Etalab sur les algorithmes publics avec la FING et Loup Cellard
 
 
 # Session EIG seuls toute la journée
