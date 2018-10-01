@@ -1,12 +1,14 @@
 Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/index.php/apps/calendar/p/5S4DP594PDIVTARU/EIG2018][en ligne]].
 
 * Stand up hebdomadaire https://mensuel.framapad.org/p/eig-standup-hebdo
-  SCHEDULED: <2018-09-21 ven. 11:30-12:30 +1w>
+  SCHEDULED: <2018-10-05 ven. 11:30-12:30 +1w>
   :PROPERTIES:
   :ID:       66046c0c-ce90-4ceb-ab33-612cb7f622e9
-  :LAST_REPEAT: [2018-09-14 ven. 14:29]
+  :LAST_REPEAT: [2018-09-28 ven. 12:38]
   :END:
   :LOGBOOK:
+  - State "DONE"       [2018-09-28 ven. 12:38]
+  - State "CANCELED"   [2018-09-21 ven. 13:44]
   - State "DONE"       [2018-09-14 ven. 14:29]
   - State "CANCELED"   [2018-09-06 jeu. 07:02]
   - State "CANCELED"   [2018-08-16 jeu. 12:14]
@@ -40,31 +42,8 @@ Vous pouvez vous abonner à cet agenda public [[https://cloud.eig-forever.org/in
   - State "DONE"       [2018-02-16 ven. 12:34]
   :END:
 
-* Session Mentors EIG 2 et EIG 3
-  SCHEDULED: <2018-09-20 jeu. 15:00-18:30>
-  :PROPERTIES:
-  :LOCATION: 110 bis, 110 rue de Grenelle 75007 Paris
-  :ID:       29ea1a90-0505-4dba-be17-71c03ad5702f
-  :END:
-  
-* Atelier Etalab sur les algorithmes publics avec la FING et Loup Cellard
-  SCHEDULED: <2018-09-26 mer. 14:00-18:00>
-  :PROPERTIES:
-  :LOCATION: N/A
-  :ID:       7e02c62f-f7b2-4c3b-bd53-8abcdfc59404
-  :END:  
-
-* Session EIG seuls toute la journée
-  SCHEDULED: <2018-09-27 jeu. 09:30-18:30>
-  :PROPERTIES:
-  :LOCATION: 9 rue d’Alexandrie, 75002 Paris
-  :ID:       dfdd897d-b96a-450d-95f2-80acc2a3506d
-  :END:
-
-LLL - Grand Atelier rue d'Alexandrie.
-
 * Session Mentors en formations par les EIG
-  SCHEDULED: <2018-10-11 jeu. 15:00-18:30>
+  SCHEDULED: <2018-10-11 jeu. 09:00-18:30>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       a2987744-17ec-4139-8649-a9954dbf7c98
@@ -105,3 +84,40 @@ LLL - Grand Atelier rue d'Alexandrie.
 #+DRAWERS:   HIDE LOGBOOK
 #+ARCHIVE:   ~/.eig2/archives/eig-agenda-archives.org::
 #+CATEGORY:  EIG
+* DONE S: Atelier Etalab sur les algorithmes publics avec la FING et Loup Cellard
+  :PROPERTIES:
+  :ID:       7e02c62f-f7b2-4c3b-bd53-8abcdfc59404
+  :END:
+<2018-09-26 mer. 14:00-18:00>
+* Journées plénières du GDR IA : 2-3 Octobre 2018 - Paris
+  :PROPERTIES:
+  :ID:       a57b7402-f057-4c4d-b664-657f8ecb4e45
+  :END:
+<2018-10-02 mar.>
+-<2018-10-03 mer.>
+ 
+ Les journées plénières du GDR IA (<http://www.gdria.fr/>) auront lieu
+ les 2 et 3 octobre à Paris (Université Paris Dauphine). Elles seront
+ centrées sur des exposés invités sur les thématiques des groupes de
+ travail du GDR:
+ 
+ • Contraintes et Apprentissage,
+ • Jeux,
+ • Planification Multi-Agents, Flexible, Temporelle, Epistémique et
+   Contingente,
+ • Médiation
+ • Représentations et Algorithmes en Pratique,
+ • Explicabilité
+ 
+ ainsi que sur les activités des groupes de travail inter-GDR:
+ 
+ • Raisonner sur les Données (avec le GDR Madics)
+ • Théorie Algorithmique de la Décision et des Jeux (avec le GDR RO)
+ 
+ Des sessions de discussion seront également organisées.
+* DONE S: Session EIG seuls toute la journée
+  :PROPERTIES:
+  :ID:       dfdd897d-b96a-450d-95f2-80acc2a3506d
+  :END:
+<2018-09-27 jeu. 09:30-19:30>
+LLL - Grand Atelier rue d'Alexandrie.
