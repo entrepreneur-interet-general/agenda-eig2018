@@ -28,7 +28,7 @@ LLL - Grand Atelier rue d'Alexandrie.
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-09-26 mer. 14:00&gt;&#x2013;&lt;2018-09-26 mer. 18:00&gt;</span></span>
 
 
-# Journées plénières du GDR IA : 2-3 Octobre 2018 - Paris
+# CANCELED Journées plénières du GDR IA : 2-3 Octobre 2018 - Paris
 
 <span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-02 mar.&gt;</span></span>
 -<span class="timestamp-wrapper"><span class="timestamp">&lt;2018-10-03 mer.&gt;</span></span>
