@@ -68,7 +68,7 @@ LLL - Grand Atelier rue d'Alexandrie.
 LLL - Grand Atelier rue d'Alexandrie.
 
 * Session finale EIG et mentors
-  SCHEDULED: <2018-11-15 jeu. 15:00-18:30>
+  SCHEDULED: <2018-11-15 jeu. 09:00-18:00>
   :PROPERTIES:
   :LOCATION: 9 rue d’Alexandrie, 75002 Paris
   :ID:       2992eecd-f002-4ac6-a9f3-86138c10b6ac
